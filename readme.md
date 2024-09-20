@@ -6,7 +6,7 @@ Desarrollo de una API REST utilizando Express y Node.js, que simula la gestión 
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **[Deployment](https://api-express-node.vercel.app/api//)** para conocer como desplegar el proyecto.
+Mira **[Deployment](https://api-express-node.vercel.app/api/)** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
